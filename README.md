@@ -17,7 +17,45 @@
 ![python](https://img.shields.io/badge/python2-red.svg)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-<img src=https://github.com/hktalent/Venom/blob/master/smp.jpg?raw=true>
+```
+         __    _ ______  ____   _  _____  ____    __
+         \  \  //|   ___||    \ | |/     \|    \  /  |
+          \  \// |   ___||     \| ||     ||     \/   |
+           \__/  |______||__/\____|\_____/|__/\__/|__|1.0.12
+    +-----------------+-----------+------------+------------------+
+    |  OPTIONS BUILD  | TARGET OS |   FORMAT   |      OUTPUT      |
+    +-----------------+-----------+------------+------------------+
+    |  1 - shellcode     unix         C             C             |
+    |  2 - shellcode     windows      C             DLL           |
+    |  3 - shellcode     windows      DLL           DLL           |
+    |  4 - shellcode     windows      C             PYTHON/EXE    |
+    |  5 - shellcode     windows      C             EXE           |
+    |  6   shellcode     windows      PSH-CMD       EXE           |
+    |  7 - shellcode     windows      C             RUBY          |
+    |  8 - shellcode     windows      MSIEXEC       MSI           |
+    |  9 - shellcode     windows      POWERSHELL    BAT           |
+    | 10 - shellcode     windows      HTA-PSH       HTA           |
+    | 11 - shellcode     windows      PSH-CMD       PS1           |
+    | 12 - shellcode     windows      PSH-CMD       BAT           |
+    | 13 - shellcode     windows      VBS           VBS           |
+    | 14 - shellcode     windows      PSH-CMD       VBS           |
+    | 15 - shellcode     windows      PSH-CMD/C     PDF           |
+    | 16 - shellcode     webserver    PHP           PHP/PHP       |
+    | 17 - shellcode     multi OS     PYTHON        PYTHON        |
+    | 18 - shellcode     multi OS     JAVA/PSH      JAR(RCE)      |
+    | 19 - web_delivery  multi OS     PYTHON/PSH    PYTHON/BAT    |
+    | 20 - shellcode     android      DALVIK        APK           |
+    |                                                             |
+    |  S - system built-in shells                                 |
+    |  F - FAQ (frequent ask questions)                           |
+    |  E - exit Shellcode Generator                               |
+    +-------------------------------------------------------------+
+                                                 SSA-RedTeam@2016_|
+
+[☠ ] Shellcode Generator
+[➽ ] Chose Your Venom:
+```
+
 
 
 # VENOM 1.0.12
