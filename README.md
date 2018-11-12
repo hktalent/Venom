@@ -18,6 +18,9 @@
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ```
+git clone https://github.com/hktalent/Venom /opt/shell
+cd /opt/shell
+./venom.sh
          __    _ ______  ____   _  _____  ____    __
          \  \  //|   ___||    \ | |/     \|    \  /  |
           \  \// |   ___||     \| ||     ||     \/   |
